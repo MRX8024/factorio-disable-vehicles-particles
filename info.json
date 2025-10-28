@@ -1,7 +1,7 @@
 {
   "name": "disable-vehicles-particles",
-  "version": "1.0.0",
-  "title": "Disable Vehicle Particles",
+  "version": "1.0.1",
+  "title": "Disable Vehicles Particles",
   "author": "MRX8024",
   "factorio_version": "2.0",
   "description": "Disable all vehicles particles when they are destroyed to reduce the update time.",
