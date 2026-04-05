@@ -4,6 +4,7 @@ local function disable_vehicle_particles(vehicle)
     vehicle.light = nil
     vehicle.track_particle_triggers = nil
     vehicle.smoke = nil
+    vehicle.corpse = nil
     vehicle.dying_explosion = nil
     vehicle.destroy_action = nil
     vehicle.collision_trigger_effect = nil
